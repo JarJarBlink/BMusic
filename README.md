@@ -1,4 +1,4 @@
 # BMusic
 
 ## Data Source
-The names used in the dataset are referenced from しゅがー.
+楽曲名については、しゅがーさんの情報を参考にしています。
